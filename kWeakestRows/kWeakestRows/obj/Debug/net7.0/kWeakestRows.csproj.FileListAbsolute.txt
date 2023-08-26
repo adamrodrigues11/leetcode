@@ -1,0 +1,15 @@
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\bin\Debug\net7.0\kWeakestRows.exe
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\bin\Debug\net7.0\kWeakestRows.deps.json
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\bin\Debug\net7.0\kWeakestRows.runtimeconfig.json
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\bin\Debug\net7.0\kWeakestRows.dll
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\bin\Debug\net7.0\kWeakestRows.pdb
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\obj\Debug\net7.0\kWeakestRows.csproj.AssemblyReference.cache
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\obj\Debug\net7.0\kWeakestRows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\obj\Debug\net7.0\kWeakestRows.AssemblyInfoInputs.cache
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\obj\Debug\net7.0\kWeakestRows.AssemblyInfo.cs
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\obj\Debug\net7.0\kWeakestRows.csproj.CoreCompileInputs.cache
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\obj\Debug\net7.0\kWeakestRows.dll
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\obj\Debug\net7.0\refint\kWeakestRows.dll
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\obj\Debug\net7.0\kWeakestRows.pdb
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\obj\Debug\net7.0\kWeakestRows.genruntimeconfig.cache
+C:\Users\adamr\Documents\SSD\leetcode\c-sharp\beginner-problems\kWeakestRows\kWeakestRows\obj\Debug\net7.0\ref\kWeakestRows.dll
